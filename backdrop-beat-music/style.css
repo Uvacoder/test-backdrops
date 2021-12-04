@@ -1,0 +1,26 @@
+* {
+    outline: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+audio {
+    position: absolute;
+    top: 92%;
+    right: 20px;
+}
+
+input {
+    position: absolute;
+    top: 95%;
+    left: 20px;
+    background-color: white;
+    cursor: pointer;
+}
